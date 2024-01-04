@@ -1,8 +1,7 @@
-# Automation Scripts
-Some random scripts I had written for automating stuffs at my work. Fell free to make your modifications and do whatever you want with it.
+# Automation Scripts 🌟
+These scripts were made for automating tasks at work and in personal life. Feel free to tinker and tailor them to suit your needs.
 
-**DISCLAIMER: I am no longer maintaining these scripts. Keeping it here just for archival purposes.**
-
+**Disclaimer: These scripts no longer maintained, but they're here for archivial purposes.**
 
 ##### License
 WTFPL [http://www.wtfpl.net/](http://www.wtfpl.net)
